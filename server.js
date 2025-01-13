@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 5000;
 // Lista zweryfikowanych użytkowników (proste przechowywanie w pamięci)
 const verifiedUsers = {
     "123456789": true,  // Przykładowe User ID Roblox
-    "987654321": true
+    "1080997930": true
 };
 
 // Endpoint do weryfikacji użytkownika
